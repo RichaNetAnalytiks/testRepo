@@ -9,3 +9,13 @@ DreamTalk is likely used for generating or manipulating video content, possibly 
 
 GFP-GAN (Generative Facial Prior-Generative Adversarial Network):
 GFP-GAN is typically employed for enhancing facial details in images or videos, often used to improve the quality of visual media by enhancing textures, removing artifacts, or modifying facial expressions in a realistic manner. It’s particularly useful in video generation or enhancement workflows to ensure high-quality visual output.
+
+
+Open in colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1BXTv-SX0g9wCOj--6NuOz6d8yb4cfwLD]
+
+
+Example for pre-trained model for testing (female voice indian accent): 
+model name: indianLadyVoice
+link to model: https://drive.google.com/file/d/1AprMuK4MeZsQQORTGuxCilvWiyNhs0eA/view?usp=sharing
+
+Audio snippet that is to be input to tortoiseTTS will be included in the folder.
