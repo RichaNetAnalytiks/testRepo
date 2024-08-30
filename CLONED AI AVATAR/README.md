@@ -11,7 +11,7 @@ GFP-GAN (Generative Facial Prior-Generative Adversarial Network):
 GFP-GAN is typically employed for enhancing facial details in images or videos, often used to improve the quality of visual media by enhancing textures, removing artifacts, or modifying facial expressions in a realistic manner. It’s particularly useful in video generation or enhancement workflows to ensure high-quality visual output.
 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17H5S7JdLM4SU_3dAwxIaQ5wZR2FM3tCI?usp=sharing)
+Open in Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1E-O8138jXt1dLgI2JIJUtQXhFqmlQjvm?usp=sharing)
 
 
 Example for pre-trained model for testing (female voice indian accent): 
